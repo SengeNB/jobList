@@ -1,0 +1,707 @@
+[
+{
+    "model": "jobs.job",
+    "pk": 1,
+    "fields": {
+        "company": "KLA",
+        "position": "AI Scientist Intern",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 2,
+    "fields": {
+        "company": "SingleStore",
+        "position": "Software Engineer, DB Engine Intern (Summer 2025)",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 3,
+    "fields": {
+        "company": "KLA",
+        "position": "Software Engineer (AI/ML) Intern",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 4,
+    "fields": {
+        "company": "KLA",
+        "position": "Software Intern (HPC Infrastructure)",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 5,
+    "fields": {
+        "company": "TeleTracking",
+        "position": "Software Engineer I",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 6,
+    "fields": {
+        "company": "FiscalNote",
+        "position": "Associate Software Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 7,
+    "fields": {
+        "company": "Rakuten International",
+        "position": "Co-Op: AI Application Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 8,
+    "fields": {
+        "company": "Exiger",
+        "position": "Software Development Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 9,
+    "fields": {
+        "company": "LMI",
+        "position": "AI Engineer Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 10,
+    "fields": {
+        "company": "Cisco",
+        "position": "Software Engineer II",
+        "status": "Working on it",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 11,
+    "fields": {
+        "company": "Western Digital",
+        "position": "Software Engineering Co-op",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 12,
+    "fields": {
+        "company": "IBM",
+        "position": "Computer Science AI Reasoning Foundations Intern: 2025",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 13,
+    "fields": {
+        "company": "Intrinsic",
+        "position": "Intern in Software Engineering /AI for Pose Estimation Evaluation",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 14,
+    "fields": {
+        "company": "Security Benefit",
+        "position": "Software Engineer",
+        "status": "To Apply",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "https://globalus242.dayforcehcm.com/CandidatePortal/u/cp/en-US/hcmportal/JobApplication?postingid=1448",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 15,
+    "fields": {
+        "company": "Waymo",
+        "position": "2025 Summer Intern, MS/PhD, Perception - ML / Computer Vision / VLM / LLM",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 16,
+    "fields": {
+        "company": "d-Matrix",
+        "position": "Machine Learning Software Engineering Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 17,
+    "fields": {
+        "company": "d-Matrix",
+        "position": "Machine Learning Computer Architect - Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 18,
+    "fields": {
+        "company": "Trace3",
+        "position": "AI Scientist (Remote)",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 19,
+    "fields": {
+        "company": "SEL",
+        "position": "Software Engineering Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 20,
+    "fields": {
+        "company": "Cadence",
+        "position": "Software Intern, Machine Learning",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 21,
+    "fields": {
+        "company": "Ciena",
+        "position": "New Grad: Dataplane Software Engineer",
+        "status": "To Apply",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 22,
+    "fields": {
+        "company": "AMD",
+        "position": "Software Engineering Intern/Co-op (Masters | Summer| Hybrid)",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 23,
+    "fields": {
+        "company": "Texas Instruments",
+        "position": "Machine Learning Research Engineer Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 24,
+    "fields": {
+        "company": "NVDIA",
+        "position": "Developer Technology Intern, AI - Summer 2025",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 25,
+    "fields": {
+        "company": "S&P Global",
+        "position": "Machine Learning Engineer - Summer Intern 2025",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 26,
+    "fields": {
+        "company": "AppLovin",
+        "position": "Software Engineer w/ potential for Global Rotation",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 27,
+    "fields": {
+        "company": "HP",
+        "position": "Personal Systems AI/Machine Learning Internship",
+        "status": "To Apply",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 28,
+    "fields": {
+        "company": "Searce Inc",
+        "position": "Machine Learning Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 29,
+    "fields": {
+        "company": "TigerGraph",
+        "position": "Software Engineer - Infrastructure",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 30,
+    "fields": {
+        "company": "IEX",
+        "position": "Software Development Engineer in Test Intern",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 31,
+    "fields": {
+        "company": "Hugging Face",
+        "position": "Machine Learning Engineer Internship, Gradio - US Remote",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 32,
+    "fields": {
+        "company": "Keysight Technologies",
+        "position": "Scientific Machine Learning Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 33,
+    "fields": {
+        "company": "Bandwidth Inc",
+        "position": "Software Development Intern - Summer 2025",
+        "status": "To Apply",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 34,
+    "fields": {
+        "company": "Zoox",
+        "position": "Software Development in Test Intern",
+        "status": "To Apply",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 35,
+    "fields": {
+        "company": "Staples",
+        "position": "AI Engineer Intern (Hybrid) - June 2025",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 36,
+    "fields": {
+        "company": "CLEAR",
+        "position": "Software Engineering Intern",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 37,
+    "fields": {
+        "company": "servicenow",
+        "position": "Software Engineer-Core Platform",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 38,
+    "fields": {
+        "company": "servicenow",
+        "position": "Software Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 39,
+    "fields": {
+        "company": "JPMorganChase",
+        "position": "Branch Operations Lead Trainee - WA South Market - Vancouver, WA",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 40,
+    "fields": {
+        "company": "techolution",
+        "position": "Associate AI engineer - Remote Work",
+        "status": "Rejected",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 41,
+    "fields": {
+        "company": "Verily",
+        "position": "Software Engineering Intern, Personal Health Records",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 42,
+    "fields": {
+        "company": "Adobe",
+        "position": "2025 University Graduate - Machine Learning Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 43,
+    "fields": {
+        "company": "Minitab",
+        "position": "Software Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 44,
+    "fields": {
+        "company": "Texas Instruments",
+        "position": "Career Accelerator Program - Software Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 45,
+    "fields": {
+        "company": "Eluvio",
+        "position": "AI - Machine Learning Intern (Gen AI - Multimodal)",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 46,
+    "fields": {
+        "company": "Insight Global",
+        "position": "C/C++ Software Engineer",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+},
+{
+    "model": "jobs.job",
+    "pk": 47,
+    "fields": {
+        "company": "NVIDIA",
+        "position": "Applied Machine Learning Intern, VLSI Design - Summer 2025",
+        "status": "Submitted",
+        "applications_data": null,
+        "pay_day": null,
+        "site": "",
+        "location": "",
+        "salary": null,
+        "notes": ""
+    }
+}
+]

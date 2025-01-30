@@ -1,0 +1,70 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job List</title>
+    <!-- 连接 CSS -->
+    <link rel="stylesheet" type="text/css" href="{% static 'css/job_list.css' %}">
+    <!-- 连接 JavaScript -->
+    <script src="{% static 'js/job_list.js' %}" defer></script>
+</head>
+<body>
+    <h1>Job List</h1>
+    
+    <!-- CSRF 令牌 -->
+    <input type="hidden" name="csrfmiddlewaretoken" value="{{ csrf_token }}">
+
+    <a href="{% url 'job_create' %}">Add New Job</a>
+    <table id="jobTable">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">Company ▲</th>
+                <th onclick="sortTable(1)">Position ▲</th>
+                <th onclick="sortTable(2)">Status ▲</th>
+                <th onclick="sortTable(3)">Applications Date ▲</th>
+                <th onclick="sortTable(4)">Pay Day ▲</th>
+                <th onclick="sortTable(5)">Site ▲</th>
+                <th onclick="sortTable(6)">Location ▲</th>
+                <th onclick="sortTable(7)">Salary ▲</th>
+                <th onclick="sortTable(8)">Notes ▲</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            {% for job in jobs %}
+            <tr>
+                <td>{{ job.company }}</td>
+                <td>{{ job.position }}</td>
+                <td>
+                    <span class="status-indicator status-{{ job.status|slugify }}">
+                        <select class="status-dropdown" data-job-id="{{ job.id }}">
+                            {% for value, label in job.STATUS_CHOICES %}
+                                <option value="{{ value }}" {% if job.status == value %}selected{% endif %}>
+                                    {{ label }}
+                                </option>
+                            {% endfor %}
+                        </select>
+                    </span>
+                </td>
+                
+                <td>{{ job.applications_data|default:"-" }}</td>
+                <td>{{ job.pay_day|default:"-" }}</td>
+                <td>{{ job.site|default:"-" }}</td>
+                <td>{{ job.location|default:"-" }}</td>
+                <td>{{ job.salary|default:"-" }}</td>
+                <td>
+                    <span class="notes-text" id="notes-{{ job.id }}">{{ job.notes|default:"-" }}</span>
+                    <button class="edit-notes-btn" onclick="editNotes({{ job.id }})">Edit</button>
+                </td>
+                
+                <td>
+                    <a href="{% url 'job_update' job.id %}">Edit</a>
+                    <a href="{% url 'job_delete' job.id %}">Delete</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

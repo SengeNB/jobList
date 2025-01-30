@@ -1,0 +1,52 @@
+/* 状态颜色 */
+.status-Submitted { color: green; font-weight: bold; }
+.status-Reviewed { color: yellow; font-weight: bold; }
+.status-Rejected { color: red; font-weight: bold; }
+.status-To-Apply { color: gray; font-weight: bold; }
+.status-Interviewing { color: blue; font-weight: bold; }
+.status-Offer-Received { color: purple; font-weight: bold; }
+.status-Withdraw { color: orange; font-weight: bold; }
+
+/* 让 select 继承颜色 */
+.status-indicator {
+    font-weight: bold;
+}
+
+.status-indicator select {
+    font-weight: bold;
+    border: none;
+    background: transparent;
+    color: inherit; /* ✅ 让 select 继承 span 的颜色 */
+}
+
+/* 让 select 下拉菜单的 option 也有颜色 */
+.status-Submitted option { color: green; }
+.status-Reviewed option { color: yellow; }
+.status-Rejected option { color: red; }
+.status-To-Apply option { color: gray; }
+.status-Interviewing option { color: blue; }
+.status-Offer-Received option { color: purple; }
+.status-Withdraw option { color: orange; }
+
+/* 美化表格 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+/* 让 Notes 编辑框更美观 */
+.notes-input {
+    width: 90%;
+    padding: 5px;
+}
